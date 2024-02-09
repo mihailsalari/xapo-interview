@@ -1,0 +1,27 @@
+/* 
+  Localizable.strings
+  Github
+
+  Created by Mihail Salari on 12/2/23.
+  
+*/
+
+"Welcome to iOS Test" = "Welcome to iOS Test";
+"Go to Xapo" = "Go to Xapo";
+"iOS Test for Xapo bank" = "iOS Test for Xapo bank";
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna." = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.";
+"Enter the app" = "Enter the app";
+
+"Privacy policy" = "Privacy policy";
+"Terms of use" = "Terms of use";
+"and" = "and";
+
+"Repositories" = "Repositories";
+"Filter" = "Filter";
+"Languages" = "Languages";
+
+"Visit on GitHub" = "Visit on GitHub";
+
+// Errors
+"Failed to fetch repositories." = "Failed to fetch repositories.";
+"Failed to load the README.me content file." = "Failed to load the README.me content file.";
