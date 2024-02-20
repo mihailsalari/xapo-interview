@@ -9,8 +9,33 @@ Xapo is an iOS application designed to showcase trending projects from GitHub. T
 
 ## Demo
 
-### Screenshot
+### Xcode Project Screenshot
 ![Xapo App Screenshot](demoresources/demo.png)
+
+### App Screenshots
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/mihailsalari/xapo-interview/assets/23311250/2eb40793-4c3a-4889-a6fb-b6688c83c66a" width="300" alt="Screenshot 1">
+    </td>
+    <td align="center">
+      <img src="https://github.com/mihailsalari/xapo-interview/assets/23311250/fd060f05-7920-4ba1-8461-d3910bbfab04" width="300" alt="Screenshot 2">
+    </td>
+      <td align="center">
+      <img src="https://github.com/mihailsalari/xapo-interview/assets/23311250/a95315d7-d5ea-4af2-a9bb-7b07c97a79ad" width="300" alt="Screenshot 3">
+    </td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/mihailsalari/xapo-interview/assets/23311250/7ddbb3c4-e7f3-49ce-9096-c77523e089a1" width="300" alt="Screenshot 1">
+    </td>
+    <td align="center">
+      <img src="https://github.com/mihailsalari/xapo-interview/assets/23311250/0a705c78-3c06-4492-8400-5cd98ddf0947" width="300" alt="Screenshot 2">
+  </tr>
+</table>
+
 
 ### Video
 [![Xapo App Demo](demoresources/demo.png)](demoresources/demo.mp4)
